@@ -1,0 +1,2 @@
+# repogmo
+mi repositorio
